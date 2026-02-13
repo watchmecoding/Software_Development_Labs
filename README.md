@@ -1,0 +1,1 @@
+A comprehensive collection of laboratory works and small-scale software applications developed using C# and the .NET ecosystem. This repository showcases my progression in mastering object-oriented programming, software design patterns, and core development principles.
