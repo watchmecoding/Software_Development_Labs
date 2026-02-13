@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qbVxvSz1SW8=",
+  "success": true,
+  "projectFilePath": "E:\\KPI\\5 semestr\\ТРПЗ\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Laba 7 TRPZ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R3SU\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\R3SU\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\R3SU\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\R3SU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿@model lab11.Models.PerfumeDetailsViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details for Perfume: @Model.PerfumeName</h2>
+
+<div>
+    <strong>Perfume Name:</strong> @Model.PerfumeName
+</div>
+<div>
+    <strong>Volume:</strong> @Model.Volume
+</div>
+
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+
+
+
+
+
+

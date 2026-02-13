@@ -1,0 +1,26 @@
+﻿@model Laba10v2.Models.OperandsModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Index", "Calc"))
+        {
+            @Html.TextAreaFor(x => x.X);
+
+            <input type="submit" value="Обчислити" />
+        }
+
+    </div>
+    @if (!string.IsNullOrWhiteSpace(ViewBag.Result)) //cheack result container
+    {
+        <p>@ViewBag.Result</p>
+    }
+</body>
+</html>

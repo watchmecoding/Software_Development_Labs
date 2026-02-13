@@ -1,0 +1,261 @@
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\lab11.dll.config
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\lab11.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\lab11.pdb
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\csc.exe
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\csc.exe.config
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\csc.rsp
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\csi.exe
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\csi.exe.config
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\csi.rsp
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.AppContext.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Console.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.IO.Compression.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Security.Claims.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.ValueTuple.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\vbc.exe
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\vbc.exe.config
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\vbc.rsp
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\VBCSCompiler.exe
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\Antlr3.Runtime.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\EntityFramework.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\EntityFramework.SqlServer.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\Newtonsoft.Json.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.Helpers.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.Mvc.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.Optimization.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.Razor.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.WebPages.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.WebPages.Razor.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\WebGrease.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\EntityFramework.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\EntityFramework.SqlServer.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.Helpers.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.Mvc.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.Optimization.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.Razor.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.WebPages.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\System.Web.WebPages.Razor.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\Newtonsoft.Json.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\Antlr3.Runtime.pdb
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\ru\System.Web.Razor.resources.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\obj\Debug\lab11.csproj.AssemblyReference.cache
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\obj\Debug\lab11.csproj.CopyComplete
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\obj\Debug\lab11.dll
+C:\Users\rofla\Desktop\3 курс\ТРПЗ\lab11\lab11\obj\Debug\lab11.pdb
+C:\Users\xxxse\Desktop\lab11\lab11\bin\lab11.dll.config
+C:\Users\xxxse\Desktop\lab11\lab11\bin\lab11.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\lab11.pdb
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\csc.exe
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\csc.exe.config
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\csc.rsp
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\csi.exe
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\csi.exe.config
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\csi.rsp
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.AppContext.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Console.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.IO.Compression.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.IO.Pipes.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Security.Claims.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.ValueTuple.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Xml.XPath.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\vbc.exe
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\vbc.exe.config
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\vbc.rsp
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\VBCSCompiler.exe
+C:\Users\xxxse\Desktop\lab11\lab11\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xxxse\Desktop\lab11\lab11\bin\Antlr3.Runtime.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\EntityFramework.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\EntityFramework.SqlServer.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\Newtonsoft.Json.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.Helpers.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.Mvc.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.Optimization.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.Razor.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.WebPages.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.WebPages.Razor.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\WebGrease.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\EntityFramework.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\EntityFramework.SqlServer.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.Helpers.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.Mvc.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.Optimization.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.Razor.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.WebPages.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\System.Web.WebPages.Razor.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\Newtonsoft.Json.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\Antlr3.Runtime.pdb
+C:\Users\xxxse\Desktop\lab11\lab11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xxxse\Desktop\lab11\lab11\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\ru\System.Web.Razor.resources.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\xxxse\Desktop\lab11\lab11\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\xxxse\Desktop\lab11\lab11\obj\Debug\lab11.csproj.AssemblyReference.cache
+C:\Users\xxxse\Desktop\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\xxxse\Desktop\lab11\lab11\obj\Debug\lab11.csproj.CopyComplete
+C:\Users\xxxse\Desktop\lab11\lab11\obj\Debug\lab11.dll
+C:\Users\xxxse\Desktop\lab11\lab11\obj\Debug\lab11.pdb
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\lab11.dll.config
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\lab11.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\lab11.pdb
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\csc.exe
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\csc.exe.config
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\csc.rsp
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\csi.exe
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\csi.exe.config
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\csi.rsp
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.AppContext.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Console.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.IO.Compression.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.IO.Pipes.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Security.Claims.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.ValueTuple.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Xml.XPath.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\vbc.exe
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\vbc.exe.config
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\vbc.rsp
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\VBCSCompiler.exe
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\Antlr3.Runtime.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\EntityFramework.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\EntityFramework.SqlServer.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\Newtonsoft.Json.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.Helpers.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.Mvc.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.Optimization.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.Razor.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.WebPages.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.WebPages.Razor.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\WebGrease.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\EntityFramework.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\EntityFramework.SqlServer.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.Helpers.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.Mvc.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.Optimization.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.Razor.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.WebPages.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\System.Web.WebPages.Razor.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\Newtonsoft.Json.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\Antlr3.Runtime.pdb
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\ru\System.Web.Razor.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\obj\Debug\lab11.csproj.AssemblyReference.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\obj\Debug\lab11.csproj.CopyComplete
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\obj\Debug\lab11.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 11\lab11\lab11\obj\Debug\lab11.pdb

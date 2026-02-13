@@ -1,0 +1,21 @@
+D:\Programming\Lab8Ind\Lab8Ind\bin\Debug\Lab8Ind.exe.config
+D:\Programming\Lab8Ind\Lab8Ind\bin\Debug\Lab8Ind.exe
+D:\Programming\Lab8Ind\Lab8Ind\bin\Debug\Lab8Ind.pdb
+D:\Programming\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.csproj.AssemblyReference.cache
+D:\Programming\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.Form1.resources
+D:\Programming\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.Properties.Resources.resources
+D:\Programming\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.csproj.GenerateResource.cache
+D:\Programming\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.csproj.CoreCompileInputs.cache
+D:\Programming\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.exe
+D:\Programming\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.pdb
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab8Ind\Lab8Ind\bin\Debug\Lab8Ind.exe.config
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab8Ind\Lab8Ind\bin\Debug\Lab8Ind.exe
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab8Ind\Lab8Ind\bin\Debug\Lab8Ind.pdb
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.csproj.AssemblyReference.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.Form1.resources
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.Properties.Resources.resources
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.csproj.GenerateResource.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.csproj.CoreCompileInputs.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.exe
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab8Ind\Lab8Ind\obj\Debug\Lab8Ind.pdb

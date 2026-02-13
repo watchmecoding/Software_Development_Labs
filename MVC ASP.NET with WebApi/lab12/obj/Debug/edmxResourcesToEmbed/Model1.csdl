@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Perfume">
+    <Key>
+      <PropertyRef Name="PerfumeID" />
+    </Key>
+    <Property Name="PerfumeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PerfumeName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TypeID" Type="Int32" />
+    <NavigationProperty Name="PerfumeType" Relationship="Self.FK__Perfume__TypeID__6383C8BA" FromRole="Perfume" ToRole="PerfumeTypes" />
+    <NavigationProperty Name="VolumeTypes" Relationship="Self.FK__VolumeTyp__Perfu__66603565" FromRole="Perfume" ToRole="VolumeType" />
+  </EntityType>
+  <EntityType Name="PerfumeType">
+    <Key>
+      <PropertyRef Name="TypeID" />
+    </Key>
+    <Property Name="TypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TypeName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Perfumes" Relationship="Self.FK__Perfume__TypeID__6383C8BA" FromRole="PerfumeTypes" ToRole="Perfume" />
+  </EntityType>
+  <EntityType Name="VolumeType">
+    <Key>
+      <PropertyRef Name="TypeID" />
+    </Key>
+    <Property Name="TypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TypeName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PerfumeID" Type="Int32" />
+    <NavigationProperty Name="Perfume" Relationship="Self.FK__VolumeTyp__Perfu__66603565" FromRole="VolumeType" ToRole="Perfume" />
+  </EntityType>
+  <Association Name="FK__Perfume__TypeID__6383C8BA">
+    <End Role="PerfumeTypes" Type="Self.PerfumeType" Multiplicity="0..1" />
+    <End Role="Perfume" Type="Self.Perfume" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PerfumeTypes">
+        <PropertyRef Name="TypeID" />
+      </Principal>
+      <Dependent Role="Perfume">
+        <PropertyRef Name="TypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__VolumeTyp__Perfu__66603565">
+    <End Role="Perfume" Type="Self.Perfume" Multiplicity="0..1" />
+    <End Role="VolumeType" Type="Self.VolumeType" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Perfume">
+        <PropertyRef Name="PerfumeID" />
+      </Principal>
+      <Dependent Role="VolumeType">
+        <PropertyRef Name="PerfumeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Perfumes" EntityType="Self.Perfume" />
+    <EntitySet Name="PerfumeTypes" EntityType="Self.PerfumeType" />
+    <EntitySet Name="VolumeTypes" EntityType="Self.VolumeType" />
+    <AssociationSet Name="FK__Perfume__TypeID__6383C8BA" Association="Self.FK__Perfume__TypeID__6383C8BA">
+      <End Role="PerfumeTypes" EntitySet="PerfumeTypes" />
+      <End Role="Perfume" EntitySet="Perfumes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__VolumeTyp__Perfu__66603565" Association="Self.FK__VolumeTyp__Perfu__66603565">
+      <End Role="Perfume" EntitySet="Perfumes" />
+      <End Role="VolumeType" EntitySet="VolumeTypes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

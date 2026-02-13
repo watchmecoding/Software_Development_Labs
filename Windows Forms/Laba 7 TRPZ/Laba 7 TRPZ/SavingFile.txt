@@ -1,0 +1,56 @@
+Animal Type: BlueTit;
+Name: Birdie;
+Age: 5;
+Gender: Female;
+Habitat: Amazon forest
+Wings: Two wings;
+Beak: Small;
+Flight type:Fast flight;
+Feather color: Blue;
+Diet type: Fruits;
+Size: Small;
+Family: 3 birds;
+Migration route: Brazil-USA;
+
+Animal Type: Dolphin;
+Name: Igor;
+Age: 20;
+Gender: Male;
+Habitat: Pacific ocean
+Legs: No legs;
+Tail: Tail with flippers;
+Tooth diameter: 15,61;
+Fur color: No fur;
+Swimming style: Fast;
+Fin size: Average;
+Communications: Sonar;
+Average speed: 50,6;
+
+Animal Type: Lion;
+Name: Katya;
+Age: 12;
+Gender: Female;
+Habitat: Savanna
+Legs: 4 legs;
+Tail: Long;
+Tooth diameter: 5,56;
+Fur color: Orange with black spots;
+Feeding type: Carnivour;
+Mane size: Long;
+Social structure: Lives in a pack;
+Body weight: 126,5;
+
+Animal Type: BlueTit;
+Name: Oleg;
+Age: 2;
+Gender: Male;
+Habitat: Forest
+Wings: Two wings;
+Beak: Small;
+Flight type:Fast flight;
+Feather color: Multicolored;
+Diet type: Fruits and berries;
+Size: Small;
+Family: 5 birds;
+Migration route: Ukraine-Turkey;
+

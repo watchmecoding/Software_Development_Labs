@@ -1,0 +1,4 @@
+CREATE PROCEDURE ShowMarks
+AS
+SELECT Count(*)
+FROM Mark

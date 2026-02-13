@@ -1,0 +1,222 @@
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Laba9.exe.config
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Laba9.exe
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Laba9.pdb
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\obj\Debug\Laba9.csproj.AssemblyReference.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\obj\Debug\Laba9.Form1.resources
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\obj\Debug\Laba9.Properties.Resources.resources
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\obj\Debug\Laba9.csproj.GenerateResource.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\obj\Debug\Laba9.csproj.CoreCompileInputs.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\obj\Debug\Laba9.exe
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\obj\Debug\Laba9.pdb
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Azure.Core.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Azure.Identity.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Mindbox.Data.Linq.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Buffers.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Collections.Immutable.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Memory.Data.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Memory.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Security.AccessControl.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Security.Permissions.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Text.Json.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.ValueTuple.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Azure.Core.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Azure.Identity.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Buffers.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Collections.Immutable.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Memory.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Memory.Data.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Security.AccessControl.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Security.Permissions.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Text.Json.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\System.ValueTuple.xml
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\obj\Debug\Laba9.Form2.resources
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 9\Laba9\obj\Debug\Laba9.csproj.CopyComplete
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Laba9.exe.config
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Laba9.exe
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Laba9.pdb
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Azure.Core.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Azure.Identity.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Mindbox.Data.Linq.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Buffers.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Collections.Immutable.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Memory.Data.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Memory.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Security.AccessControl.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Security.Permissions.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Text.Json.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.ValueTuple.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Azure.Core.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Azure.Identity.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Buffers.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Collections.Immutable.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Memory.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Memory.Data.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Security.AccessControl.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Security.Permissions.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Text.Json.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\System.ValueTuple.xml
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\obj\Debug\Laba9.csproj.AssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\obj\Debug\Laba9.Form1.resources
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\obj\Debug\Laba9.Form2.resources
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\obj\Debug\Laba9.Properties.Resources.resources
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\obj\Debug\Laba9.csproj.GenerateResource.cache
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\obj\Debug\Laba9.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\obj\Debug\Laba9.csproj.Up2Date
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\obj\Debug\Laba9.exe
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab9\Laba9\obj\Debug\Laba9.pdb

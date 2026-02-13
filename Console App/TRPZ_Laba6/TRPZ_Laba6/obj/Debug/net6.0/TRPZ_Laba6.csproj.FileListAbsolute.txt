@@ -1,0 +1,28 @@
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\bin\Debug\net6.0\TRPZ_Laba6.exe
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\bin\Debug\net6.0\TRPZ_Laba6.deps.json
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\bin\Debug\net6.0\TRPZ_Laba6.runtimeconfig.json
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\bin\Debug\net6.0\TRPZ_Laba6.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\bin\Debug\net6.0\TRPZ_Laba6.pdb
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.AssemblyInfoInputs.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.AssemblyInfo.cs
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.csproj.CoreCompileInputs.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\refint\TRPZ_Laba6.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.pdb
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.genruntimeconfig.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\ref\TRPZ_Laba6.dll
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\bin\Debug\net6.0\TRPZ_Laba6.exe
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\bin\Debug\net6.0\TRPZ_Laba6.deps.json
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\bin\Debug\net6.0\TRPZ_Laba6.runtimeconfig.json
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\bin\Debug\net6.0\TRPZ_Laba6.dll
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\bin\Debug\net6.0\TRPZ_Laba6.pdb
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.GeneratedMSBuildEditorConfig.editorconfig
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.AssemblyInfoInputs.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.AssemblyInfo.cs
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.csproj.CoreCompileInputs.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.dll
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\refint\TRPZ_Laba6.dll
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.pdb
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\TRPZ_Laba6.genruntimeconfig.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab6\TRPZ_Laba6\TRPZ_Laba6\obj\Debug\net6.0\ref\TRPZ_Laba6.dll

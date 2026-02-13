@@ -1,0 +1,32 @@
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\bin\Debug\net6.0-windows\Laba 7 TRPZ.exe
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\bin\Debug\net6.0-windows\Laba 7 TRPZ.deps.json
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\bin\Debug\net6.0-windows\Laba 7 TRPZ.runtimeconfig.json
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\bin\Debug\net6.0-windows\Laba 7 TRPZ.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\bin\Debug\net6.0-windows\Laba 7 TRPZ.pdb
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba_7_TRPZ.Form1.resources
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.csproj.GenerateResource.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.AssemblyInfoInputs.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.AssemblyInfo.cs
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.csproj.CoreCompileInputs.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\refint\Laba 7 TRPZ.dll
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.pdb
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.genruntimeconfig.cache
+C:\Users\xxxse\Desktop\Технологія розробки програмного забезпечення\Laba 7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\ref\Laba 7 TRPZ.dll
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\bin\Debug\net6.0-windows\Laba 7 TRPZ.exe
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\bin\Debug\net6.0-windows\Laba 7 TRPZ.deps.json
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\bin\Debug\net6.0-windows\Laba 7 TRPZ.runtimeconfig.json
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\bin\Debug\net6.0-windows\Laba 7 TRPZ.dll
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\bin\Debug\net6.0-windows\Laba 7 TRPZ.pdb
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba_7_TRPZ.Form1.resources
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.csproj.GenerateResource.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.GeneratedMSBuildEditorConfig.editorconfig
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.AssemblyInfoInputs.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.AssemblyInfo.cs
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.csproj.CoreCompileInputs.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.dll
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\refint\Laba 7 TRPZ.dll
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.pdb
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\Laba 7 TRPZ.genruntimeconfig.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Laba 7 TRPZ\Laba 7 TRPZ\obj\Debug\net6.0-windows\ref\Laba 7 TRPZ.dll

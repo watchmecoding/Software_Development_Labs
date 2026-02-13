@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\laba 7 trpz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|solutionrelative:laba 7 trpz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|e:\\kpi\\5 semestr\\\u0442\u0440\u043F\u0437\\labs\\lab7\\laba 7 trpz\\laba 7 trpz\\myobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|solutionrelative:laba 7 trpz\\myobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|e:\\kpi\\5 semestr\\\u0442\u0440\u043F\u0437\\labs\\lab7\\laba 7 trpz\\laba 7 trpz\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|solutionrelative:laba 7 trpz\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|e:\\kpi\\5 semestr\\\u0442\u0440\u043F\u0437\\labs\\lab7\\laba 7 trpz\\laba 7 trpz\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|solutionrelative:laba 7 trpz\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|e:\\kpi\\5 semestr\\\u0442\u0440\u043F\u0437\\labs\\lab7\\laba 7 trpz\\laba 7 trpz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|solutionrelative:laba 7 trpz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|e:\\kpi\\5 semestr\\\u0442\u0440\u043F\u0437\\labs\\lab7\\laba 7 trpz\\laba 7 trpz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|solutionrelative:laba 7 trpz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|e:\\kpi\\5 semestr\\\u0442\u0440\u043F\u0437\\labs\\lab7\\laba 7 trpz\\laba 7 trpz\\savingfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D867A67D-DBBC-4ADF-84E1-1C17173562A5}|Laba 7 TRPZ\\Laba 7 TRPZ.csproj|solutionrelative:laba 7 trpz\\savingfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 254,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Classes.cs",
+              "RelativeDocumentMoniker": "Laba 7 TRPZ\\Classes.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Classes.cs",
+              "RelativeToolTip": "Laba 7 TRPZ\\Classes.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:18:12.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyObject.cs",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\MyObject.cs",
+              "RelativeDocumentMoniker": "Laba 7 TRPZ\\MyObject.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\MyObject.cs",
+              "RelativeToolTip": "Laba 7 TRPZ\\MyObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:18:12.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Interfaces.cs",
+              "RelativeDocumentMoniker": "Laba 7 TRPZ\\Interfaces.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Interfaces.cs",
+              "RelativeToolTip": "Laba 7 TRPZ\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:18:12.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Form1.cs",
+              "RelativeDocumentMoniker": "Laba 7 TRPZ\\Form1.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Form1.cs*",
+              "RelativeToolTip": "Laba 7 TRPZ\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:18:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Form1.cs",
+              "RelativeDocumentMoniker": "Laba 7 TRPZ\\Form1.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Form1.cs [Design]*",
+              "RelativeToolTip": "Laba 7 TRPZ\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:18:13.001Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Laba 7 TRPZ\\Form1.Designer.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\Form1.Designer.cs*",
+              "RelativeToolTip": "Laba 7 TRPZ\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:18:13.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SavingFile.txt",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\SavingFile.txt",
+              "RelativeDocumentMoniker": "Laba 7 TRPZ\\SavingFile.txt",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab7\\Laba 7 TRPZ\\Laba 7 TRPZ\\SavingFile.txt",
+              "RelativeToolTip": "Laba 7 TRPZ\\SavingFile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-30T16:18:13.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="Database1Entities1">
+    <EntitySetMapping Name="Perfume">
+      <EntityTypeMapping TypeName="Database1Model.Perfume">
+        <MappingFragment StoreEntitySet="Perfume">
+          <ScalarProperty Name="PerfumeID" ColumnName="PerfumeID" />
+          <ScalarProperty Name="PerfumeName" ColumnName="PerfumeName" />
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PerfumeTypes">
+      <EntityTypeMapping TypeName="Database1Model.PerfumeTypes">
+        <MappingFragment StoreEntitySet="PerfumeTypes">
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VolumeType">
+      <EntityTypeMapping TypeName="Database1Model.VolumeType">
+        <MappingFragment StoreEntitySet="VolumeType">
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+          <ScalarProperty Name="PerfumeID" ColumnName="PerfumeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

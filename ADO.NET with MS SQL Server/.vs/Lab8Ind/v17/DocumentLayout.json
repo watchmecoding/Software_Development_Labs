@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13FAF7E9-22AD-4792-AEC7-C79448F3DFA4}|Lab8Ind\\Lab8Ind.csproj|e:\\kpi\\5 semestr\\\u0442\u0440\u043F\u0437\\labs\\lab8.2\\lab8ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FAF7E9-22AD-4792-AEC7-C79448F3DFA4}|Lab8Ind\\Lab8Ind.csproj|solutionrelative:lab8ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FAF7E9-22AD-4792-AEC7-C79448F3DFA4}|Lab8Ind\\Lab8Ind.csproj|E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\lab8ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13FAF7E9-22AD-4792-AEC7-C79448F3DFA4}|Lab8Ind\\Lab8Ind.csproj|solutionrelative:lab8ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FAF7E9-22AD-4792-AEC7-C79448F3DFA4}|Lab8Ind\\Lab8Ind.csproj|E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\lab8ind\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FAF7E9-22AD-4792-AEC7-C79448F3DFA4}|Lab8Ind\\Lab8Ind.csproj|solutionrelative:lab8ind\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FAF7E9-22AD-4792-AEC7-C79448F3DFA4}|Lab8Ind\\Lab8Ind.csproj|E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\lab8ind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FAF7E9-22AD-4792-AEC7-C79448F3DFA4}|Lab8Ind\\Lab8Ind.csproj|solutionrelative:lab8ind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\Lab8Ind\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab8Ind\\Form1.Designer.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\Lab8Ind\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab8Ind\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:07:49.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\Lab8Ind\\Program.cs",
+              "RelativeDocumentMoniker": "Lab8Ind\\Program.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\Lab8Ind\\Program.cs",
+              "RelativeToolTip": "Lab8Ind\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:07:39.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\Lab8Ind\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab8Ind\\Form1.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\Lab8Ind\\Form1.cs",
+              "RelativeToolTip": "Lab8Ind\\Form1.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAQwDQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:50:46.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8.2\\Lab8Ind\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab8Ind\\Form1.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab8Ind\\Lab8Ind\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Lab8Ind\\Lab8Ind\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:50:46.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

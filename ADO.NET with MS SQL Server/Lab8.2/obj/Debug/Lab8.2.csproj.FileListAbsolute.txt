@@ -1,0 +1,10 @@
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csproj.AssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab8.2\Lab8.2\obj\Debug\Lab8Ind.Form1.resources
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csproj.GenerateResource.cache
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab8.2\Lab8.2\bin\Debug\Lab82.exe.config
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab8.2\Lab8.2\bin\Debug\Lab82.exe
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab8.2\Lab8.2\bin\Debug\Lab82.pdb
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab8.2\Lab8.2\obj\Debug\Lab82.Properties.Resources.resources
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab8.2\Lab8.2\obj\Debug\Lab82.exe
+C:\Users\grand\OneDrive\Desktop\KPI\5 semestr\ТРПЗ\Labs\Lab8.2\Lab8.2\obj\Debug\Lab82.pdb

@@ -1,0 +1,31 @@
+D:\Programming\Lab7\Lab7\bin\Debug\Lab7.exe.config
+D:\Programming\Lab7\Lab7\bin\Debug\Lab7.exe
+D:\Programming\Lab7\Lab7\bin\Debug\Lab7.pdb
+D:\Programming\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+D:\Programming\Lab7\Lab7\obj\Debug\Lab7.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+D:\Programming\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+D:\Programming\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+D:\Programming\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+D:\Programming\Lab7\Lab7\obj\Debug\Lab7.exe
+D:\Programming\Lab7\Lab7\obj\Debug\Lab7.pdb
+E:\KPI\5 semestr\ТРПЗ\Pal\ТРПЗ1\Lab7\Lab7\bin\Debug\Lab7.exe.config
+E:\KPI\5 semestr\ТРПЗ\Pal\ТРПЗ1\Lab7\Lab7\bin\Debug\Lab7.exe
+E:\KPI\5 semestr\ТРПЗ\Pal\ТРПЗ1\Lab7\Lab7\bin\Debug\Lab7.pdb
+E:\KPI\5 semestr\ТРПЗ\Pal\ТРПЗ1\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+E:\KPI\5 semestr\ТРПЗ\Pal\ТРПЗ1\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+E:\KPI\5 semestr\ТРПЗ\Pal\ТРПЗ1\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+E:\KPI\5 semestr\ТРПЗ\Pal\ТРПЗ1\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+E:\KPI\5 semestr\ТРПЗ\Pal\ТРПЗ1\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+E:\KPI\5 semestr\ТРПЗ\Pal\ТРПЗ1\Lab7\Lab7\obj\Debug\Lab7.exe
+E:\KPI\5 semestr\ТРПЗ\Pal\ТРПЗ1\Lab7\Lab7\obj\Debug\Lab7.pdb
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Lab7\bin\Debug\Lab7.exe.config
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Lab7\bin\Debug\Lab7.exe
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Lab7\bin\Debug\Lab7.pdb
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Lab7\obj\Debug\Lab7.exe
+E:\KPI\5 semestr\ТРПЗ\Labs\Lab7\Lab7\obj\Debug\Lab7.pdb

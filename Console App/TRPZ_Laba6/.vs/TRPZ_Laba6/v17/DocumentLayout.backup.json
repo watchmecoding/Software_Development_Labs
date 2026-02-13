@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab6\\TRPZ_Laba6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37B94B43-549A-4529-9286-711A6586F3D0}|TRPZ_Laba6\\TRPZ_Laba6.csproj|e:\\kpi\\5 semestr\\\u0442\u0440\u043F\u0437\\labs\\lab6\\trpz_laba6\\trpz_laba6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B94B43-549A-4529-9286-711A6586F3D0}|TRPZ_Laba6\\TRPZ_Laba6.csproj|solutionrelative:trpz_laba6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B94B43-549A-4529-9286-711A6586F3D0}|TRPZ_Laba6\\TRPZ_Laba6.csproj|e:\\kpi\\5 semestr\\\u0442\u0440\u043F\u0437\\labs\\lab6\\trpz_laba6\\trpz_laba6\\trpz_laba6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{37B94B43-549A-4529-9286-711A6586F3D0}|TRPZ_Laba6\\TRPZ_Laba6.csproj|solutionrelative:trpz_laba6\\trpz_laba6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TRPZ_Laba6",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab6\\TRPZ_Laba6\\TRPZ_Laba6\\TRPZ_Laba6.csproj",
+              "RelativeDocumentMoniker": "TRPZ_Laba6\\TRPZ_Laba6.csproj",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab6\\TRPZ_Laba6\\TRPZ_Laba6\\TRPZ_Laba6.csproj",
+              "RelativeToolTip": "TRPZ_Laba6\\TRPZ_Laba6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T13:09:06.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab6\\TRPZ_Laba6\\TRPZ_Laba6\\Program.cs",
+              "RelativeDocumentMoniker": "TRPZ_Laba6\\Program.cs",
+              "ToolTip": "E:\\KPI\\5 semestr\\\u0422\u0420\u041F\u0417\\Labs\\Lab6\\TRPZ_Laba6\\TRPZ_Laba6\\Program.cs*",
+              "RelativeToolTip": "TRPZ_Laba6\\Program.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFcBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:45:30.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
